@@ -1,11 +1,11 @@
 DynamicThemes
 =============
 
-This app is showcase of Dynamic Themes
+Application to showcase Dynamic Themes
 
 
 # Purpose
-This Application will showcase Locally Packaged Themes
+This Application showcases Locally Packaged Themes
 
 # Supported platforms:
 **Mobile**
